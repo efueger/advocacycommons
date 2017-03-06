@@ -1,9 +1,8 @@
 engines:
   brakeman:
     enabled: true
-  # Fails
   eslint:
-    enabled: false
+    enabled: true
   rubocop:
     enabled: true
 ratings:
